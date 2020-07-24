@@ -15,12 +15,12 @@ Eric is…
 * [還有口罩嗎？](https://github.com/eric0324/MaskHelpBot)
 * Lassie
 * 5breakfast
-* 嘿，元智
-* 開車吧！台北 – HackNTU 2015
+* [嘿，元智](https://github.com/HeyYZU)
+* [開車吧！台北](https://github.com/eric0324/DriverTaipei) – HackNTU 2015
 
 ## 社群參與 / Community
 
-* Chatbot Taiwan 志工 / Volunteer of Chatbot Taiwan
+* [Chatbot Taiwan](https://github.com/Chatbot-Taiwan) 志工 / Volunteer of [Chatbot Taiwan](https://github.com/Chatbot-Taiwan)
 * LaravelConf Taiwan 2020 志工 / Volunteer of LaravelConf Taiwan 2020
 * LaravelConf Taiwan 2019 志工 / Volunteer of LaravelConf Taiwan 2019
 * WordCamp 2019 志工 / Volunteer of WordCamp 2019
