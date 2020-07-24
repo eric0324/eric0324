@@ -20,7 +20,7 @@ Eric is…
 
 ## 社群參與 / Community
 
-* Chatbot.tw 志工 / Volunteer of Chatbot.tw
+* Chatbot Taiwan 志工 / Volunteer of Chatbot Taiwan
 * LaravelConf Taiwan 2020 志工 / Volunteer of LaravelConf Taiwan 2020
 * LaravelConf Taiwan 2019 志工 / Volunteer of LaravelConf Taiwan 2019
 * WordCamp 2019 志工 / Volunteer of WordCamp 2019
