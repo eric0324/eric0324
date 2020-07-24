@@ -11,6 +11,7 @@ Eric is…
 * 竹貓星球數位股份有限公司, Full Stack developer, 2017/3/19 ~ 2017/10/1
 
 ## 專案 / Project
+* [Lotify](https://github.com/eric0324/lotify)
 * [還有口罩嗎？](https://github.com/eric0324/MaskHelpBot)
 * Lassie
 * 5breakfast
