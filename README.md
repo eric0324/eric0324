@@ -26,8 +26,8 @@ Eric is…
 * WordCamp 2019 志工 / Volunteer of WordCamp 2019
 * 元智大學 ITAC 副社長 (Sep. 2015 ~ Jun. 2016 ) / Vice President (Sep. 2015 ~ Jun. 2016 )
 
-### Eric's Github
-[![Lawrence's github stats](https://github-readme-stats.vercel.app/api?username=eric0324&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## Eric's Github
+[![github stats](https://github-readme-stats.vercel.app/api?username=eric0324&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### Most Used Language
+## Most Used Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric0324&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
