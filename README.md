@@ -13,7 +13,7 @@
 - 🎯 中華民國海軍陸戰隊, 二兵 2017/6/28 ~ 2017/10/19
 - 👨‍💻 竹貓星球數位股份有限公司, developer, 2017/3/19 ~ 2017/10/1
 
-**Languages and Tools:**
+## Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
@@ -24,6 +24,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+## Stats
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=eric0324)
 
