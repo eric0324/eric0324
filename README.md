@@ -1,9 +1,10 @@
 ## Hi, I'm Eric! 👋
 
+<img align="right" src="https://raw.githubusercontent.com/eric0324/eric0324/master/pikachu.gif" width="165">
+
 - 👨‍💻 A programmer who loves the beauty of PHP;
 - 🌱 A writer who likes to share something with people.
 
-<img align="right" src="https://raw.githubusercontent.com/eric0324/eric0324/master/pikachu.gif" width="165">
 
 ## Experience
 - 🛰 SAT. Knowledges, Senior developer, 2020/03/10 ~ present
