@@ -7,7 +7,7 @@
 
 
 ## Experience
-- 🛰 SAT. Knowledges, Senior developer, 2020/03/10 ~ present
+- 🛰 SAT. KNOWLEDGE, Senior developer, 2020/03/10 ~ present
 - 🔧 GoodLinker, developer, 2018/02/12 ~ 2020/03/10
 - 🥯 5breakfast, chatbot developer, 2017/10/23 ~ 2018/12/10
 - 🎯 中華民國海軍陸戰隊, 二兵 2017/6/28 ~ 2017/10/19
