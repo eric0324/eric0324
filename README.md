@@ -5,7 +5,7 @@
 <img align="right" src="https://raw.githubusercontent.com/eric0324/eric0324/master/pikachu.gif" width="165">
 
 - 👨‍💻 A programmer who loves the beauty of PHP;
-- 🌱 A writer who likes to share something with people.
+- 🌱 A writer who likes to share something with people;
 
 ## Experience
 - 🛰 SAT. KNOWLEDGE, Senior developer, 2020/03/10 ~ Present
