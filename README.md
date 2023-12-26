@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Eric!  [![Github](https://img.shields.io/github/followers/eric0324?label=Follow&style=social)](https://github.com/appleboy)
+## 👋 Hi, I'm Eric!  [![Github](https://img.shields.io/github/followers/eric0324?label=Follow&style=social)](https://github.com/eric03244)
 
 
 
